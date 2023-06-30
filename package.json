@@ -1,7 +1,7 @@
 {
   "name": "heroes-spa",
   "private": true,
-  "homepage": "http://JesusP18.github.io/heroes-spa",
+  "homepage": "http://JesusP18.github.io/hero-spa",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
